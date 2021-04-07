@@ -1,0 +1,3 @@
+Exercise 1: Refactor MainPage and CartPage to be split into multiple files- one file for actions,
+one for elements and one more for assertions if needed. Expose assertions as a public getter.
+Exercise 2: Refactor tests in FacadeProductPurchaseTests to use the PurchaseFacade class.

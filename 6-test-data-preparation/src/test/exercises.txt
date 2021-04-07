@@ -1,0 +1,2 @@
+Exercise 1: Create new class BillingInfoDefaultValues for representing a new JSON config section with default billing info.
+Refactor PurchaseInfo class to use the new configuration.

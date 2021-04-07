@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1-optimize-refactor-flaky-tests/1-optimize-refactor-flaky-tests.iml" filepath="$PROJECT_DIR$/1-optimize-refactor-flaky-tests/1-optimize-refactor-flaky-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-speeding-up-tests/2-speeding-up-tests.iml" filepath="$PROJECT_DIR$/2-speeding-up-tests/2-speeding-up-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-tests-readability/3-tests-readability.iml" filepath="$PROJECT_DIR$/3-tests-readability/3-tests-readability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-tests-maintainability/4-tests-maintainability.iml" filepath="$PROJECT_DIR$/4-tests-maintainability/4-tests-maintainability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-api-usability/5-api-usability.iml" filepath="$PROJECT_DIR$/5-api-usability/5-api-usability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6-test-data-preparation/6-test-data-preparation.iml" filepath="$PROJECT_DIR$/6-test-data-preparation/6-test-data-preparation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns-workshop.iml" filepath="$PROJECT_DIR$/design-patterns-workshop.iml" />
+    </modules>
+  </component>
+</project>

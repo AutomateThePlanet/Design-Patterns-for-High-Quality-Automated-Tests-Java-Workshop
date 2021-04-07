@@ -1,0 +1,2 @@
+Exercise 1: Refactor singleton tests to use the facade design pattern
+Exercise 2: Refactor app design pattern pages to be fluent. Refactor the tests to use the new fluent API syntax.

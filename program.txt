@@ -1,0 +1,72 @@
+Workshop Program
+----------------------------------------------------------------
+Part 1
+----------------------------------------------------------------
+Optimizing and Refactoring Legacy Flaky Tests 40 mins
+Optimizing and Refactoring Legacy Flaky Tests Practice 15 mins
+break 10 mins
+
+Exercise 1: Implement same tests in WebDriverWaitProductPurchaseTests class using waitAndFindElement and waitToBeClickable methods
+Exercise 2: Implement same tests in DecoratorsProductPurchaseTests class using LoggingDriver
+
+----------------------------------------------------------------
+Part 2
+----------------------------------------------------------------
+Strategies for Speeding-up the Tests 30 mins
+Strategies for Speeding-up the Tests Practice 20 mins
+break 5 mins
+
+Exercise 1: Implement same tests in WaitForAjaxProductPurchaseTests class using new waitForAjax and waitUntilPageLoadsCompletely methods
+Exercise 2: Upgrade the tests in WaitForAjaxProductPurchaseTests to use ExecutionBrowser annotation
+
+----------------------------------------------------------------
+Part 3
+----------------------------------------------------------------
+Test Readability Design Patterns 20 mins
+Test Readability Design Patterns Practice 15 mins
+break 10 mins
+
+Exercise 1: Implement applyCoupon, increaseProductQuantity, clickProceedToCheckout, getMessageNotification and getTotal methods in pages.v4.singlefilepageobjectbasepagesections.CartPage class. Make sure that completePurchaseSuccessfully_whenNewClient test is passing.
+
+----------------------------------------------------------------
+Part 4
+----------------------------------------------------------------
+
+Enhancing the Test Maintainability and Reusability Part 1 25 mins
+Enhancing the Test Maintainability and Reusability Part 1 Practice 15 mins
+break 5 mins
+
+Exercise 1: Refactor MainPage and CartPage to be split into multiple files- one file for actions, one for elements and one more for assertions if needed. Expose assertions as a public getter.
+
+Enhancing the Test Maintainability and Reusability Part 2 25 mins
+Enhancing the Test Maintainability and Reusability Part 2 Practice 15 mins
+break 10 mins
+
+Exercise 2: Refactor tests in FacadeProductPurchaseTests to use the PurchaseFacade class.
+
+----------------------------------------------------------------
+Part 5
+----------------------------------------------------------------
+Api Usability Part 1 20 mins
+Api Usability Part 1 Practice 15 mins
+break 5 mins
+
+Exercise 1: Refactor singleton tests to use the facade design pattern
+
+Api Usability Part 2 20 mins
+Api Usability Part 2 Practice 15 mins
+break 5 mins
+
+Exercise 2: Refactor app design pattern pages to be fluent. Refactor the tests to use the new fluent API syntax.
+
+Building Extensibility in Your Test Library 20 mins
+break 10 mins
+
+----------------------------------------------------------------
+Part 6
+----------------------------------------------------------------
+
+Test Data Preparation and Test Environments 30 mins
+Test Data Preparation and Test Environments Practice 15 mins
+
+Exercise 1: Create new class BillingInfoDefaultValues for representing a new JSON config section with default billing info. Refactor PurchaseInfo class to use the new configuration.

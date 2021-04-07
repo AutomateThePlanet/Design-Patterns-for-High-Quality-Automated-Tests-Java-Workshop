@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/chapter1-defining-high-quality-attributes/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter7-extensibility/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter8-assessment-system/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter9-benchmarking/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15_PREVIEW" project-jdk-name="15" project-jdk-type="JavaSDK" />
+</project>

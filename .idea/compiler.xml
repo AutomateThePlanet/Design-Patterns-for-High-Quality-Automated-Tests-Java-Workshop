@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="2-speeding-up-tests" />
+        <module name="3-tests-readability" />
+        <module name="1-optimize-refactor-flaky-tests" />
+        <module name="4-tests-maintainability" />
+        <module name="5-api-usability" />
+        <module name="6-test-data-preparation" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="15">
+      <module name="1-optimize-refactor-flaky-tests" target="1.11" />
+      <module name="2-speeding-up-tests" target="1.11" />
+      <module name="3-tests-readability" target="1.11" />
+      <module name="4-tests-maintainability" target="1.11" />
+      <module name="5-api-usability" target="1.11" />
+      <module name="6-test-data-preparation" target="1.11" />
+      <module name="chapter1-defining-high-quality-attributes" target="1.11" />
+      <module name="chapter7-extensibility" target="1.11" />
+      <module name="chapter8-assessment-system" target="1.11" />
+      <module name="chapter9-benchmarking" target="1.11" />
+      <module name="design-patterns-workshop" target="1.11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="--enable-preview" />
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="1-optimize-refactor-flaky-tests" options="" />
+      <module name="2-speeding-up-tests" options="" />
+      <module name="3-tests-readability" options="" />
+      <module name="4-tests-maintainability" options="" />
+      <module name="5-api-usability" options="" />
+      <module name="6-test-data-preparation" options="" />
+      <module name="chapter1-defining-high-quality-attributes" options="" />
+      <module name="chapter7-extensibility" options="" />
+      <module name="chapter8-assessment-system" options="" />
+      <module name="chapter9-benchmarking" options="" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,2 @@
+Exercise 1: Implement same tests in WebDriverWaitProductPurchaseTests class using waitAndFindElement and waitToBeClickable methods
+Exercise 2: Implement same tests in DecoratorsProductPurchaseTests class using LoggingDriver
