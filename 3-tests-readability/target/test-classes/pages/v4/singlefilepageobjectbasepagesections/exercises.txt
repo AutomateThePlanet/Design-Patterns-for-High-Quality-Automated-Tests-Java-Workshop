@@ -1,3 +1,0 @@
-Exercise 1: Implement applyCoupon, increaseProductQuantity, clickProceedToCheckout, getMessageNotification and
-getTotal methods in pages.v4.singlefilepageobjectbasepagesections.CartPage class.
-Make sure that completePurchaseSuccessfully_whenNewClient test is passing.

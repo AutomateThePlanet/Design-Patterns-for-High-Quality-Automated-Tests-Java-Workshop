@@ -15,7 +15,7 @@ package facadedesignpattern.classic.CartPage;
 
 import core.Driver;
 import facadedesignpattern.classic.NavigatableEShopPage;
-import pages.v3.singlefilepageobjectssections.Sections.BreadcrumbSection;
+import facadedesignpattern.classic.Sections.BreadcrumbSection;
 
 public class CartPage extends NavigatableEShopPage {
     public CartPage(Driver driver) {

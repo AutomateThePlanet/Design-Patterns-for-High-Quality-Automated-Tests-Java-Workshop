@@ -1,2 +1,0 @@
-Exercise 1: Implement same tests in WaitForAjaxProductPurchaseTests class using new waitForAjax and waitUntilPageLoadsCompletely methods
-Exercise 2: Upgrade the tests in WaitForAjaxProductPurchaseTests to use ExecutionBrowser annotation

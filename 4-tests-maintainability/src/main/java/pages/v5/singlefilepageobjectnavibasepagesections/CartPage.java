@@ -15,8 +15,8 @@ package pages.v5.singlefilepageobjectnavibasepagesections;
 
 import core.Driver;
 import core.Element;
+import facadedesignpattern.classic.Sections.BreadcrumbSection;
 import org.openqa.selenium.By;
-import pages.v3.singlefilepageobjectssections.Sections.BreadcrumbSection;
 
 public class CartPage extends NavigatableEShopPage {
     public CartPage(Driver driver) {

@@ -14,9 +14,9 @@
 package pages.v5.singlefilepageobjectnavibasepagesections;
 
 import core.Driver;
-import pages.v3.singlefilepageobjectssections.Sections.CartInfoSection;
-import pages.v3.singlefilepageobjectssections.Sections.MainMenuSection;
-import pages.v3.singlefilepageobjectssections.Sections.SearchSection;
+import facadedesignpattern.classic.Sections.CartInfoSection;
+import facadedesignpattern.classic.Sections.MainMenuSection;
+import facadedesignpattern.classic.Sections.SearchSection;
 
 public abstract class EShopPage {
     protected final Driver driver;

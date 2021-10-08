@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11b56724-944e-4050-9d9a-3c56c12f5720" name="Default Changelist" comment="" />
+    <list default="true" id="11b56724-944e-4050-9d9a-3c56c12f5720" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-optimize-refactor-flaky-tests/1-optimize-refactor-flaky-tests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1-optimize-refactor-flaky-tests/1-optimize-refactor-flaky-tests.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-speeding-up-tests/2-speeding-up-tests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2-speeding-up-tests/2-speeding-up-tests.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-speeding-up-tests/target/test-classes/exercises.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-tests-readability/3-tests-readability.iml" beforeDir="false" afterPath="$PROJECT_DIR$/3-tests-readability/3-tests-readability.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-tests-readability/src/main/java/pages/v4/singlefilepageobjectbasepagesections/BaseEShopPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/3-tests-readability/src/main/java/pages/v4/singlefilepageobjectbasepagesections/BaseEShopPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-tests-readability/target/test-classes/pages/v4/singlefilepageobjectbasepagesections/exercises.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-tests-maintainability/4-tests-maintainability.iml" beforeDir="false" afterPath="$PROJECT_DIR$/4-tests-maintainability/4-tests-maintainability.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-tests-maintainability/src/main/java/facadedesignpattern/classic/CartPage/CartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/4-tests-maintainability/src/main/java/facadedesignpattern/classic/CartPage/CartPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-tests-maintainability/src/main/java/facadedesignpattern/classic/EShopPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/4-tests-maintainability/src/main/java/facadedesignpattern/classic/EShopPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-tests-maintainability/src/main/java/pages/v5/singlefilepageobjectnavibasepagesections/CartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/4-tests-maintainability/src/main/java/pages/v5/singlefilepageobjectnavibasepagesections/CartPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-tests-maintainability/src/main/java/pages/v5/singlefilepageobjectnavibasepagesections/EShopPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/4-tests-maintainability/src/main/java/pages/v5/singlefilepageobjectnavibasepagesections/EShopPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-tests-maintainability/target/test-classes/exercises.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-api-usability/5-api-usability.iml" beforeDir="false" afterPath="$PROJECT_DIR$/5-api-usability/5-api-usability.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6-test-data-preparation/6-test-data-preparation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/6-test-data-preparation/6-test-data-preparation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,16 +57,9 @@
       <recent name="D:\SourceCode\Design-Patterns-for-High-Quality-Automated-Tests-Java-Workshop\2-speeding-up-tests\src\test\java" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.ProductPurchaseTests.completePurchaseSuccessfully_whenNewClient">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="chapter8-assessment-system" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -57,33 +67,6 @@
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <module name="chapter8-assessment-system" />
       <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -109,6 +92,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProductPurchaseTests.completePurchaseSuccessfully_whenNewClient" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="1-optimize-refactor-flaky-tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hardcodedpauses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hardcodedpauses" />
+      <option name="MAIN_CLASS_NAME" value="hardcodedpauses.ProductPurchaseTests" />
+      <option name="METHOD_NAME" value="completePurchaseSuccessfully_whenNewClient" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ProductPurchaseTests.completePurchaseSuccessfully_whenNewClient" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
