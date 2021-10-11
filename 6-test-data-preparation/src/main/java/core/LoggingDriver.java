@@ -25,31 +25,31 @@ public class LoggingDriver extends DriverDecorator {
 
     @Override
     public void start(Browser browser) throws IOException {
-        System.out.print(String.format("start browser = %s", browser.name()));
+        System.out.println(String.format("start browser = %s", browser.name()));
         driver.start(browser);
     }
 
     @Override
     public void quit() {
-        System.out.print("close browser");
+        System.out.println("close browser");
         driver.quit();
     }
 
     @Override
     public void goToUrl(String url) {
-        System.out.print(String.format("go to url = %s", url));
+        System.out.println(String.format("go to url = %s", url));
         driver.goToUrl(url);
     }
 
     @Override
     public Element findElement(By locator) {
-        System.out.print("find element");
+        System.out.println("find element");
         return driver.findElement(locator);
     }
 
     @Override
     public List<Element> findElements(By locator) {
-        System.out.print("find elements");
+        System.out.println("find elements");
         return driver.findElements(locator);
     }
 }

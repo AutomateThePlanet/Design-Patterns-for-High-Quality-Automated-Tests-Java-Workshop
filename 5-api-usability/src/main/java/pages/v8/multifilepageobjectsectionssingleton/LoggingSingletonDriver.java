@@ -42,7 +42,7 @@ public class LoggingSingletonDriver extends DriverDecorator {
 
     @Override
     public void quit() {
-        System.out.print("close browser");
+        System.out.println("close browser");
         driver.quit();
     }
 
@@ -54,13 +54,13 @@ public class LoggingSingletonDriver extends DriverDecorator {
 
     @Override
     public Element findElement(By locator) {
-        System.out.print("find element");
+        System.out.println("find element");
         return driver.findElement(locator);
     }
 
     @Override
     public List<Element> findElements(By locator) {
-        System.out.print("find elements");
+        System.out.println("find elements");
         return driver.findElements(locator);
     }
 }

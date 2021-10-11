@@ -28,37 +28,37 @@ public class LogElement extends ElementDecorator {
 
     @Override
     public String getText() {
-        System.out.print(String.format("Element Text = %s", element.getText()));
+        System.out.println(String.format("Element Text = %s", element.getText()));
         return element.getText();
     }
 
     @Override
     public Boolean isEnabled() {
-        System.out.print(String.format("Element Enabled = %b", element.isEnabled()));
+        System.out.println(String.format("Element Enabled = %b", element.isEnabled()));
         return element.isEnabled();
     }
 
     @Override
     public Boolean isDisplayed() {
-        System.out.print(String.format("Element Displayed = %b", element.isDisplayed()));
+        System.out.println(String.format("Element Displayed = %b", element.isDisplayed()));
         return element.isDisplayed();
     }
 
     @Override
     public void typeText(String text) throws InterruptedException {
-        System.out.print(String.format("Type Text = = %s", text));
+        System.out.println(String.format("Type Text = %s", text));
         element.typeText(text);
     }
 
     @Override
     public void click() {
-        System.out.print("Element Clicked");
+        System.out.println("Element Clicked");
         element.click();
     }
 
     @Override
     public String getAttribute(String attributeName) {
-        System.out.print("Element Clicked");
+        System.out.println("Element Clicked");
         return element.getAttribute(attributeName);
     }
 }

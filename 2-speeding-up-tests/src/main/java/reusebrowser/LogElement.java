@@ -46,19 +46,19 @@ public class LogElement extends ElementDecorator {
 
     @Override
     public void typeText(String text) throws InterruptedException {
-        System.out.printf("Type Text = = %s", text);
+        System.out.printf("Type Text = %s", text);
         element.typeText(text);
     }
 
     @Override
     public void click() {
-        System.out.print("Element Clicked");
+        System.out.println("Element Clicked");
         element.click();
     }
 
     @Override
     public String getAttribute(String attributeName) {
-        System.out.print("Element Clicked");
+        System.out.println("Element Clicked");
         return element.getAttribute(attributeName);
     }
 }
